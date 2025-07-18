@@ -1,2 +1,2 @@
 # This is a simple Python program that prints Hello, World!
-print("Hello, hi!")
+print("Hello, Github!")
